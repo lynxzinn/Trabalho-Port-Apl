@@ -4,6 +4,22 @@
     margin-right: auto;
   }
 img{
-        width: 400;
-        height: 400px;   
+        width: 400px;
+        height: 300px;   
     }
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #009edb;
+}
+
+footer {
+  margin-top: auto;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  font-family: Arial, sans-serif;
+}

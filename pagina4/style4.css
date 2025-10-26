@@ -12,3 +12,12 @@ html {
         width: 500px;
         height: 350px;   
     }
+
+
+    footer {
+  margin-top: auto;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  font-family: Arial, sans-serif;
+}
